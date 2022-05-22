@@ -2,7 +2,7 @@
   
 # Estudos-HTML-e-CSS
   
-<h4>Repositorio para estudos nos cursos da alura, na parte de front-end, com HTML e CSS.</h4>
+<h4>Repositorio para estudos nos cursos da alura, na parte de front-end, com HTML e CSS. Criei um site para apresentação de trabalho de personal trainer</h4>
   
 <p ><img  src="https://wallpapercave.com/wp/wp2742499.jpg" width="60%" alt="imagem" >
   
